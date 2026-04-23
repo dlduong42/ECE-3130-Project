@@ -1,12 +1,12 @@
 ## Morse Code Translator
 
-###Project Purpose
+### Project Purpose
 This was created with the intent of allowing those who do not understand morse code to communicate with those who do by translating english text into morse code.
 
-###Project Functions
+### Project Functions
 This project takes input from a terminal and translates into morse code, which can then be printed on an LCD screen through the STM32 Microcontroller.
 
-###Project Members
+### Project Members
 Dominic Duong - dlduong42@tntech.edu - Computer Engineering
 
 Connor Ketron - cjketron42@tntech.edu - Electrical Engineering
