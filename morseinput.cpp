@@ -99,7 +99,7 @@ string translate(string initial){
         // if there is a space in the originial string, it won't be ignored
         if(initial[i] == ' '){
             i++;
-            final = final.append(" ");
+            final = final.append("/");
         }
 
         initial[i] = tolower(initial[i]);           // makes all the characters lowercase
