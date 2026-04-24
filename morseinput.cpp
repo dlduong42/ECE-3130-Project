@@ -1,6 +1,6 @@
 /*
 	Title:  Morse Input to STM32 Microcontroller
-	Author: Yun Kim, Brett, Connor, Dominic
+	Author: Yun Kim, Brett Rhoton, Connor Ketron, Dominic Duong
 	Date:  4/15/26
 	Description:  Sends keyboard inputs to a port where the STM32
     Microcontroller is connected to, in which it'll translates and display
